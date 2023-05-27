@@ -1,1 +1,1 @@
-# Nova-proteins-and-synaptic-integration-of-Sst-interneurons
+# Nova proteins direct synaptic integration of somatostatin interneurons through activity-dependent alternative splicing
