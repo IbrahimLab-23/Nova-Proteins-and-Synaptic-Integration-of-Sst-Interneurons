@@ -95,7 +95,7 @@ head(summary(GO_results))
 plot(barplot(GO_results, showCategory = 50 ))
 dotplot(GO_results, showCategory=50)
 
-###Other way Correct way
+###Other way 
 genes_to_test<- gene
 colnames(genes_to_test)[3] = c("SYMBOL")
 ego <- enrichGO(gene = genes_to_test$SYMBOL, OrgDb = org.Mm.eg.db, ont= "ALL", keyType="SYMBOL")
