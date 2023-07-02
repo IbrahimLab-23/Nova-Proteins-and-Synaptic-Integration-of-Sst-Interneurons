@@ -9,8 +9,6 @@ Somatostatin interneurons are the earliest born population of cortical inhibitor
 
 If you find our work helpful in your research or work, please cite us.
 
-Leena A. Ibrahim, Brie Wamsley, Norah Al-Ghamdi, Nusrath Yusuf, Elaine Sevier, Ariel Hairston, Mia Sherer, Xavier Hubert Jaglin, Qing Xu, Lihua Guo, Alireza Khodadadi-Jamayran, Emilia Favuzzi, Yuan Yuan, Jordane Dimidschstein, Robert Darnell, Gord Fishell bioRxiv 845230; doi: https://doi.org/10.1101/845230
-
 Leena Ali Ibrahim, Brie Wamsley, Norah Alghamdi, Nusrath Yusuf, Elaine Sevier, Ariel Hairston, Mia Sherer, Xavier Hubert Jaglin, Qing Xu, Lihua Guo, Alireza Khodadadi-Jamayran, Emilia Favuzzi, Yuan Yuan, Jordane Dimidschstein, Robert B Darnell, Gordon Fishell (2023) Nova proteins direct synaptic integration of somatostatin interneurons through activity-dependent alternative splicing eLife 12:e86842
 https://doi.org/10.7554/eLife.86842
 
